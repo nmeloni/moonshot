@@ -13,6 +13,10 @@ Type Me To The Moon is a typing shmup developed for the
 Github/itch.io game jam of november 2020 and a
 first attempt at game programming.
 
+<a href="/images/demo" target="_blank">
+<img src="images/pyxel-201129-163731.gif" width="48%">
+</a>
+
 
 
 

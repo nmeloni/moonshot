@@ -18,7 +18,7 @@ class Game:
         self.keyboard = Input()
         self.background = Background()
         self.score = Score()
-        self.levels = [lvl2,lvl2,lvl3]
+        self.levels = [lvl1,lvl2,lvl3]
         self.state = GAME_PLAY
         self.hp = 10
         self.lvl = 0

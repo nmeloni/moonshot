@@ -1,13 +1,18 @@
 # moonshot
-GitHub game jam 2020
+GitHub  itch.io game jam 2020
 
-MOONTYPE
-========
+Type Me To The Moon
+===================
 
-Idées de gameplay
-=================
+"The moon is collapsing and threatens the earth.
+Use your more poetic instincts to type your way
+through the meteors and save humanity !"
 
-- Style Arkanoid avec morceau de la lune qui tombe
-- Chaque morceau est lié à un mot d'un poème qui doit être tapé au clavier pour ere éliminé
-- Certain mots sont liés et le joueur doit alterner les lettres des différents mots
-- Bonus de points si un mot / vers / x4/x8/x16 vers sont tapés sans fautes
+
+Type Me To The Moon is a typing shmup developed for the
+Github/itch.io game jam of november 2020 and a
+first attempt at game programming.
+
+
+
+

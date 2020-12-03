@@ -14,7 +14,7 @@ first attempt at game programming.
 <img src="images/pyxel-201129-163731.gif" width="48%">
 </a>
 
-you'll have to install <a href="https://github.com/kitao/pyxel">**Pyxel**</a> and **SDL2** to run the game.
+You'll have to install <a href="https://github.com/kitao/pyxel">**Pyxel**</a> and **SDL2** to run the game.
 
 ```sh
 sudo apt install python3 python3-pip libsdl2-dev libsdl2-image-dev gifsicle
